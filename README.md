@@ -19,38 +19,19 @@
 
 # <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there
 
-My name is Javier Paez, a graduate student at Imperial College рџ‡¬рџ‡§ pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
+My name is Saparbay Symbat, and I am a second-year Bachelor’s student at Astana IT University, studying Software Engineering.
 
-Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delft рџ‡ірџ‡±, where I joined the challenging Next Generation Robotics Honours Program, a two-year research program where ten carefully selected B.Sc. students work on research projects at the TU Delft Robotics Institute.
+Only recently, I started interesting in Machine Learning and LLMs — and it all started with a simple curiosity about Data Science and my friends began getting into AI, experimenting with models, talking about 
+computer vision and LLMs… It feels like something powerful and transformative so  I started too
 
-рџ’» My interests lie within the field of AI & Machine Learning
+Outside of tech, I’m a person of small joys like playing sudoku, go and listening music
 
-рџЋ¶ Outside my academic and professional pursuits, I am passionate about music, having played the violin with multiple orchestras worldwide
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My last project from uni group project
 
-рџЋћпёЏ I am also interested in video games and cinematography
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
-
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
- -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
-
-<h2 align="center">рџ‘ЁвЂЌрџ’» Repositories рџ‘ЁвЂЌрџ’»</h2>
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/umenzi/bio-inspired_algorithms">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=bio-inspired_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Bio-Inspired algorithms"/>
-  </a>
-  <a href="https://github.com/umenzi/jpaefra">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=jpaefra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Personal Website"/>
-  </a>
-  <a href="https://github.com/umenzi/diversity-rlhf">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=umenzi&repo=diversity-rlhf&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="The human factor: Addressing Diversity in RLHF" />
-  </a>
-</p>
-
-<a href="https://github.com/umenzi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+### Project 1 — RapidTech
+**Description:** The main objective of this project is to create an online platform solely dedicated to laptops. The goal is to provide a specialized and user-friendly e-commerce store where users can easily find, compare, and purchase laptops based on their specific needs  
+**Tech Stack:** GO-lang, HTML, JavaScript, CSS, MongoDB  
+📂 **GitHub:** [Repository Link](https://github.com/daaingkaryaad/F3_LaptopStore.git)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
