@@ -1,10 +1,5 @@
 ﻿<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Symbat" alt="symbat" /> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/javier-paez-franco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="saparbaysymbat70@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-business.antler474@passinbox.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white" /></a>
-</p>
-
 <br>
 
 # <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there
