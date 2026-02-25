@@ -1,10 +1,8 @@
-﻿<p align="right"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Symbat" alt="symbat" /> </p>
+﻿<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Symbat" alt="symbat" /> </p>
 
 <p align="center">
-  <a href="https://jpaefra.com"><img alt="Website" src="https://img.shields.io/badge/Website-jpaefra.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white" /></a>
-  <a href="https://jpaefra.com/posts/"><img alt="Blog" src="https://img.shields.io/badge/Blog-jpaefra.com/posts-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/javier-paez-franco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:business.antler474@passinbox.com?subject=Hey!"><img alt="Mail" src="https://img.shields.io/badge/Gmail-business.antler474@passinbox.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white" /></a>
+  <a href="saparbaysymbat70@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-business.antler474@passinbox.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
